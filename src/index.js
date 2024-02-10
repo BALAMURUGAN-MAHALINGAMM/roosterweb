@@ -16,8 +16,6 @@ root.render(
   <a>Home</a>
   <a style={{paddingLeft:7}}>Receipe</a>
   <a style={{paddingLeft:7}}>Contact</a>
-  <a style={{paddingLeft:7}}>Service</a>
-
   </div>
 </div>
 );
