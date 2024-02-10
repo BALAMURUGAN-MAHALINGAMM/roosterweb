@@ -1,0 +1,71 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.nav{
+    padding-top: 10px;
+    background-color: black;
+    color: white;
+    padding-left: 45%;
+}
+.nav1{
+    padding-top: 5px;
+}
+.nav2{
+    margin-top: 30px;
+    display: flex;
+    gap: 15px;
+    margin-left: 8%;
+}
+.food1{
+    border: 1px solid black;
+    height: 300px;
+    width: 300px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.food2{
+    border: 1px solid black;
+    height: 300px;
+    width: 300px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.food3{
+    border: 1px solid black;
+    height: 300px;
+    width: 300px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.food4{
+    border: 1px solid black;
+    height: 300px;
+    width: 300px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.food1:hover{
+    cursor: pointer;
+    background-color: aquamarine;
+}
+.food2:hover{
+    cursor: pointer;
+    background-color: rgb(9, 242, 156);
+}
+.food3:hover{
+    cursor: pointer;
+    background-color: aquamarine;
+}
+.food4:hover{
+    cursor: pointer;
+    background-color: aquamarine;
+}
+.footer{
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    height: 200px;
+    padding-left:45%;
+    padding-top: 15px;
+}
